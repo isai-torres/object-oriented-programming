@@ -1,5 +1,5 @@
 <div>
-  <h1>COMP2400 Object Oriented Programing</h1>
+  <h1>COMP2400 Object Oriented Programming</h1>
 </div>
 
 <div>
