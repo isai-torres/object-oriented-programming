@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levit\\OneDrive\\Desktop\\object-oriented-programming\\Exercises\\actividad_clase_libro_05\\05-actividad-clase-libro.csproj",
-      "projectName": "05-actividad-clase-libro",
-      "projectPath": "C:\\Users\\levit\\OneDrive\\Desktop\\object-oriented-programming\\Exercises\\actividad_clase_libro_05\\05-actividad-clase-libro.csproj",
+      "projectUniqueName": "C:\\Users\\levit\\OneDrive\\Desktop\\object-oriented-programming\\Exercises\\actividad_clase_libro_05\\actividad_clase_libro_05.csproj",
+      "projectName": "actividad_clase_libro_05",
+      "projectPath": "C:\\Users\\levit\\OneDrive\\Desktop\\object-oriented-programming\\Exercises\\actividad_clase_libro_05\\actividad_clase_libro_05.csproj",
       "packagesPath": "C:\\Users\\levit\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\levit\\OneDrive\\Desktop\\object-oriented-programming\\Exercises\\actividad_clase_libro_05\\obj\\",
       "projectStyle": "PackageReference",
