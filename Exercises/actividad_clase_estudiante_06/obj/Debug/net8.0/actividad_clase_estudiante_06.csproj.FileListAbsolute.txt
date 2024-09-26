@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\bin\Debug\net8.0\actividad_clase_estudiante_06.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\bin\Debug\net8.0\actividad_clase_estudiante_06.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\bin\Debug\net8.0\actividad_clase_estudiante_06.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\bin\Debug\net8.0\actividad_clase_estudiante_06.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\bin\Debug\net8.0\actividad_clase_estudiante_06.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\refint\actividad_clase_estudiante_06.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\actividad_clase_estudiante_06.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_clase_estudiante_06\obj\Debug\net8.0\ref\actividad_clase_estudiante_06.dll
