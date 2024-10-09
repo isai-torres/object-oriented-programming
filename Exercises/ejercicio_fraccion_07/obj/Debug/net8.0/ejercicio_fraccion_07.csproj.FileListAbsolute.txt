@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\bin\Debug\net8.0\ejercicio_fraccion_07.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\bin\Debug\net8.0\ejercicio_fraccion_07.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\bin\Debug\net8.0\ejercicio_fraccion_07.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\bin\Debug\net8.0\ejercicio_fraccion_07.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\bin\Debug\net8.0\ejercicio_fraccion_07.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\refint\ejercicio_fraccion_07.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ejercicio_fraccion_07.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\ejercicio_fraccion_07\obj\Debug\net8.0\ref\ejercicio_fraccion_07.dll
