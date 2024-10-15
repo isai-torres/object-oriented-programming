@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\bin\Debug\net8.0\actividad_empleado_08.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\bin\Debug\net8.0\actividad_empleado_08.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\bin\Debug\net8.0\actividad_empleado_08.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\bin\Debug\net8.0\actividad_empleado_08.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\bin\Debug\net8.0\actividad_empleado_08.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\refint\actividad_empleado_08.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\actividad_empleado_08.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_empleado_08\obj\Debug\net8.0\ref\actividad_empleado_08.dll

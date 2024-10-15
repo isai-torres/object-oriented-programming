@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\bin\Debug\net8.0\actividad_cuadrilatero_09.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\bin\Debug\net8.0\actividad_cuadrilatero_09.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\bin\Debug\net8.0\actividad_cuadrilatero_09.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\bin\Debug\net8.0\actividad_cuadrilatero_09.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\bin\Debug\net8.0\actividad_cuadrilatero_09.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\refint\actividad_cuadrilatero_09.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\actividad_cuadrilatero_09.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_cuadrilatero_09\obj\Debug\net8.0\ref\actividad_cuadrilatero_09.dll
