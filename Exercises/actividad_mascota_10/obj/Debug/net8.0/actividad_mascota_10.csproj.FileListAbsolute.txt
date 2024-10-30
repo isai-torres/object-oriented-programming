@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\bin\Debug\net8.0\actividad_mascota_10.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\bin\Debug\net8.0\actividad_mascota_10.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\bin\Debug\net8.0\actividad_mascota_10.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\bin\Debug\net8.0\actividad_mascota_10.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\bin\Debug\net8.0\actividad_mascota_10.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\refint\actividad_mascota_10.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\actividad_mascota_10.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\actividad_mascota_10\obj\Debug\net8.0\ref\actividad_mascota_10.dll
