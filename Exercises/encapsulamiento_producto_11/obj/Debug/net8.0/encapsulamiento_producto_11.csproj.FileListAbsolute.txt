@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\bin\Debug\net8.0\encapsulamiento_producto_11.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\bin\Debug\net8.0\encapsulamiento_producto_11.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\bin\Debug\net8.0\encapsulamiento_producto_11.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\bin\Debug\net8.0\encapsulamiento_producto_11.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\bin\Debug\net8.0\encapsulamiento_producto_11.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\refint\encapsulamiento_producto_11.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\encapsulamiento_producto_11.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\encapsulamiento_producto_11\obj\Debug\net8.0\ref\encapsulamiento_producto_11.dll
