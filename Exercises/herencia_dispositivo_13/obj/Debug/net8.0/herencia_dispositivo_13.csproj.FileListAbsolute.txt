@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\bin\Debug\net8.0\herencia_dispositivo_13.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\bin\Debug\net8.0\herencia_dispositivo_13.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\bin\Debug\net8.0\herencia_dispositivo_13.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\bin\Debug\net8.0\herencia_dispositivo_13.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\bin\Debug\net8.0\herencia_dispositivo_13.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\refint\herencia_dispositivo_13.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\herencia_dispositivo_13.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\herencia_dispositivo_13\obj\Debug\net8.0\ref\herencia_dispositivo_13.dll
