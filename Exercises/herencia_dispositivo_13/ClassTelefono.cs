@@ -1,3 +1,16 @@
 public class Telefono : Dispositivo {
-  public int numeroDeCamaras {get; set;}
+
+  // Atributos
+  private int numeroDeCamaras {get; set;}
+
+  // Get / Set
+
+  public int NumeroDeCamaras {
+    get{return numeroDeCamaras;}
+    set{
+      if(value >= 1) {
+        numeroDeCamaras = value;
+      }
+    }
+  }
 }
