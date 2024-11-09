@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "actividad_calculadora_simple_15/1.0.0": {
+        "runtime": {
+          "actividad_calculadora_simple_15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "actividad_calculadora_simple_15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
