@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\bin\Debug\net8.0\override_libro_18.exe
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\bin\Debug\net8.0\override_libro_18.deps.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\bin\Debug\net8.0\override_libro_18.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\bin\Debug\net8.0\override_libro_18.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\bin\Debug\net8.0\override_libro_18.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\refint\override_libro_18.dll
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.pdb
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\override_libro_18.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\object-oriented-programming\Exercises\override_libro_18\obj\Debug\net8.0\ref\override_libro_18.dll

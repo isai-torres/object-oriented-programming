@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "override_libro_18/1.0.0": {
+        "runtime": {
+          "override_libro_18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "override_libro_18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
