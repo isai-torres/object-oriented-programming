@@ -1,6 +1,5 @@
 public class Paciente : Persona {
   // Atributos
-  public string historialMedico {get; set;}
   public string seguroMedico {get; set;}
 
   // Método constructor vació
