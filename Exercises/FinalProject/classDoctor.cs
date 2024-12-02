@@ -16,7 +16,6 @@ public class Doctor : Persona {
   // Método override para mostrar los detalles
   public override void verDatos() {
     Console.WriteLine($"Nombre: {nombre} \nEdad: {edad} \nId: {identificacion} \nEspecialidad: {especialidad}");
-    Console.WriteLine();
   }
 
   // Método para mostrar los pacientes atendidos

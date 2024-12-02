@@ -39,7 +39,7 @@ namespace FinalProject {
         historialPaciente1.verHistorial();
       }
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine();
 
       // Paciente 2
       Console.WriteLine("Información del paciente:");
@@ -50,7 +50,7 @@ namespace FinalProject {
         historialPaciente2.verHistorial();
       }
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine();
 
       // Paciente 3
       Console.WriteLine("Información del paciente:");
@@ -77,15 +77,17 @@ namespace FinalProject {
       Console.WriteLine("Información del doctor:");
       doctor1.verDatos();
 
+      Console.WriteLine();
+
       // Doctor 2
       Console.WriteLine("Información del doctor:");
       doctor2.verDatos();
 
+      Console.WriteLine("---------------------------------------");
+
       // Lista de pacientes atendidos Doctor 1
       doctor1.listaPacientesAtendidos.Add(paciente1);
       doctor1.listaPacientesAtendidos.Add(paciente2);
-
-      Console.WriteLine("---------------------------------------");
 
       // Lista de pacientes atendidos Doctor 2
       doctor2.listaPacientesAtendidos.Add(paciente3);
@@ -95,11 +97,19 @@ namespace FinalProject {
       // Pacientes Doctor 1
       doctor1.verPacientesAtendidos();
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine();
 
       // Pacientes Doctor 2
       doctor2.verPacientesAtendidos();
+
+      Console.WriteLine("---------------------------------------");
       
+      //---------------------------- Consulta ----------------------------
+
+      // Objetos de la clase Consulta Y información de la consulta:
+
+      Consulta consulta1 = new Consulta(paciente1, doctor1, "Revision de dolor de cuello");
+      consulta1.verDetallesConsulta();
     }
   }
 }
