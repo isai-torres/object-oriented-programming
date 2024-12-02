@@ -1,5 +1,4 @@
 public class Persona {
-  // Atributos
  public string nombre {get; set;}
  public int edad {get; set;}
  private string id {get; set;}
@@ -16,7 +15,7 @@ public class Persona {
     id = Id;
   }
 
-  // Método abstracto para mostrar los detalles
+  // Método virtual para mostrar los detalles
   public virtual void verDatos() {
     Console.WriteLine($"Nombre: {nombre} \nEdad: {edad} \nId: {identificacion}");
     Console.WriteLine();

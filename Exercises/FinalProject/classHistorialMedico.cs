@@ -20,7 +20,7 @@ public class HistorialMedico : Persona {
     set{historialMedico = value;}
   }
 
-  // Mostrar el historial medico
+  // Método mostrar el historial medico
   public void verHistorial() {
     Console.WriteLine($"{fecha} - {historialMedico}");
   }

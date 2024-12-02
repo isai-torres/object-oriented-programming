@@ -13,6 +13,7 @@ public class Paciente : Persona {
     seguroMedico = SeguroMedico;
   }
 
+  // Método override para mostrar los detalles
   public override void verDatos() {
     Console.WriteLine($"Nombre: {nombre} \nEdad: {edad} \nId: {identificacion} \nSeguro Medico: {seguroMedico}");
     Console.WriteLine();
