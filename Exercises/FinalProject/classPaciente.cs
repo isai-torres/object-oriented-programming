@@ -18,4 +18,9 @@ public class Paciente : Persona {
     Console.WriteLine($"Nombre: {nombre} \nEdad: {edad} \nId: {identificacion} \nSeguro Medico: {seguroMedico}");
     Console.WriteLine();
   }
+
+  // Método para mostrar nota medica del paciente
+  public void agregarNota(string notaMedica) {
+    Console.WriteLine($"Nota medica: {notaMedica}");
+  }
 }

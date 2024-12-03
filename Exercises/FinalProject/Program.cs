@@ -18,12 +18,12 @@ namespace FinalProject {
       listaHistorialPaciente1.Add(new HistorialMedico("2/ago/2020", "Dolor de cabeza"));
       listaHistorialPaciente1.Add(new HistorialMedico("20/ago/2020", "Dolor de cuello"));
 
-      //Paciente 2 Lista Historial Medico
+      // Paciente 2 Lista Historial Medico
       List<HistorialMedico> listaHistorialPaciente2 = new List<HistorialMedico>();
       listaHistorialPaciente2.Add(new HistorialMedico("22/ene/2021", "Dolor de brazo"));
       listaHistorialPaciente2.Add(new HistorialMedico("10/nov/2021", "Dolor de ojo izquierdo"));
 
-      //Paciente 3 Lista Historial Medico
+      // Paciente 3 Lista Historial Medico
       List<HistorialMedico> listaHistorialPaciente3 = new List<HistorialMedico>();
       listaHistorialPaciente3.Add(new HistorialMedico("19/feb/2022", "Dolor de espalda"));
       listaHistorialPaciente3.Add(new HistorialMedico("10/oct/2023", "Dolor de pies"));
@@ -39,6 +39,8 @@ namespace FinalProject {
         historialPaciente1.verHistorial();
       }
 
+      paciente1.agregarNota("Paciente necesita revision del cuello");
+
       Console.WriteLine();
 
       // Paciente 2
@@ -50,6 +52,8 @@ namespace FinalProject {
         historialPaciente2.verHistorial();
       }
 
+      paciente2.agregarNota("Paciente necesita revision del ojo izquierdo");
+
       Console.WriteLine();
 
       // Paciente 3
@@ -60,6 +64,8 @@ namespace FinalProject {
       foreach (HistorialMedico historialPaciente3 in listaHistorialPaciente3 ) {
         historialPaciente3.verHistorial();
       }
+
+      paciente3.agregarNota("Paciente necesita revision del pies");
 
       Console.WriteLine("---------------------------------------");
 
@@ -76,7 +82,6 @@ namespace FinalProject {
       // Doctor 1
       Console.WriteLine("Información del doctor:");
       doctor1.verDatos();
-
       Console.WriteLine();
 
       // Doctor 2
@@ -85,21 +90,14 @@ namespace FinalProject {
 
       Console.WriteLine("---------------------------------------");
 
-      // Lista de pacientes atendidos Doctor 1
+      // Lista de pacientes atendidos por los doctores
       doctor1.listaPacientesAtendidos.Add(paciente1);
       doctor1.listaPacientesAtendidos.Add(paciente2);
-
-      // Lista de pacientes atendidos Doctor 2
       doctor2.listaPacientesAtendidos.Add(paciente3);
 
       // Mostrar pacientes atendidos por los doctores
-
-      // Pacientes Doctor 1
       doctor1.verPacientesAtendidos();
-
       Console.WriteLine();
-
-      // Pacientes Doctor 2
       doctor2.verPacientesAtendidos();
 
       Console.WriteLine("---------------------------------------");
@@ -107,9 +105,15 @@ namespace FinalProject {
       //---------------------------- Consulta ----------------------------
 
       // Objetos de la clase Consulta Y información de la consulta:
-
       Consulta consulta1 = new Consulta(paciente1, doctor1, "Revision de dolor de cuello");
+      Consulta consulta2 = new Consulta(paciente2, doctor1, "Revision del ojo izquierdo");
+      Consulta consulta3 = new Consulta(paciente3, doctor2, "Revision de dolor de pies");
+
+
+      // Mostrar detalles de las consultas
       consulta1.verDetallesConsulta();
+      consulta2.verDetallesConsulta();
+      consulta3.verDetallesConsulta();
     }
   }
 }
