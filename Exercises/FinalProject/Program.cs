@@ -67,7 +67,7 @@ namespace FinalProject {
 
       paciente3.agregarNota("Paciente necesita revision del pies");
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine("-----------------------------------------------------------------------------------------------------");
 
       //---------------------------- Doctores ----------------------------
 
@@ -88,7 +88,7 @@ namespace FinalProject {
       Console.WriteLine("Información del doctor:");
       doctor2.verDatos();
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine("-----------------------------------------------------------------------------------------------------");
 
       // Lista de pacientes atendidos por los doctores
       doctor1.listaPacientesAtendidos.Add(paciente1);
@@ -100,7 +100,7 @@ namespace FinalProject {
       Console.WriteLine();
       doctor2.verPacientesAtendidos();
 
-      Console.WriteLine("---------------------------------------");
+      Console.WriteLine("-----------------------------------------------------------------------------------------------------");
       
       //---------------------------- Consulta ----------------------------
 
@@ -114,6 +114,20 @@ namespace FinalProject {
       consulta1.verDetallesConsulta();
       consulta2.verDetallesConsulta();
       consulta3.verDetallesConsulta();
+
+      Console.WriteLine("--------------------------------------- Pacientes Registrados ---------------------------------------");
+
+      //---------------------------- Pacientes Registrados ----------------------------
+
+      RegistroPacientes registroDelPaciente = new RegistroPacientes();
+
+      // Lista de registro de pacientes
+      registroDelPaciente.listaPacienteRegistrado.Add(paciente1);
+      registroDelPaciente.listaPacienteRegistrado.Add(paciente2);
+      registroDelPaciente.listaPacienteRegistrado.Add(paciente3);
+
+      // Mostrar pacientes registrados
+      registroDelPaciente.verRegistroPacientes();
     }
   }
 }
