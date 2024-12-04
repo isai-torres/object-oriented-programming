@@ -19,7 +19,7 @@ public class Consulta : Persona {
 
   // Método para mostrar los detalles de la consulta
   public void verDetallesConsulta() {
-    Console.WriteLine($"Consulta del paciente: {pacienteConsulta.nombre} \nDoctor asignado: {doctorConsulta.nombre} \nDescripción de la consulta: {descripcionConsulta} - {fechaConsulta}");
+    Console.WriteLine($"Consulta del paciente: {pacienteConsulta.nombre} - {pacienteConsulta.identificacion} \nDoctor asignado: {doctorConsulta.nombre} \nDescripción de la consulta: {descripcionConsulta} - {fechaConsulta}");
     Console.WriteLine();
   }
 }

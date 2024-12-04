@@ -128,6 +128,35 @@ namespace FinalProject {
 
       // Mostrar pacientes registrados
       registroDelPaciente.verRegistroPacientes();
+      Console.WriteLine();
+
+      Console.WriteLine("--------------------------------------- Doctores Disponibles ----------------------------------------");
+
+      //---------------------------- Doctores Disponibles ----------------------------
+
+      DoctoresDisponibles disponibilidadDoctor = new DoctoresDisponibles();
+
+      // Lista de doctores disponibles
+      disponibilidadDoctor.listaDoctoresDisponibles.Add(doctor1);
+      disponibilidadDoctor.listaDoctoresDisponibles.Add(doctor2);
+
+      // Mostrar los doctores disponibles
+      disponibilidadDoctor.verDoctorDisponible();
+      Console.WriteLine();
+
+      Console.WriteLine("--------------------------------------- Consultas Realizadas ----------------------------------------");
+
+      //---------------------------- Consultas Realizadas ----------------------------
+
+      ConsultaRealizada consultaRealizada = new ConsultaRealizada();
+
+      // Lista de consultas realizadas
+      consultaRealizada.listaConsultaRealizada.Add(paciente1);
+      consultaRealizada.listaConsultaRealizada.Add(paciente3);
+
+      // Mostrar las consultas realizadas
+      consultaRealizada.verConsultaRealizada();
+      Console.WriteLine();
     }
   }
 }
